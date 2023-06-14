@@ -4,6 +4,7 @@ An asynchronous TUI data visualiser written in Rust that updates in realtime whe
 
 ## Planned Features:
 - [ ] Basic x, y cross plotting
+- [ ] Bar charts
 - [ ] Line plotting between points
 - [ ] Full visual configuration
 - [ ] Smooth Interpolation between points
